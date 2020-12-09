@@ -1,0 +1,17 @@
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.deps.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.runtimeconfig.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.runtimeconfig.dev.json
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.dll
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.RazorAssemblyInfo.cache
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.RazorAssemblyInfo.cs
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.RazorTargetAssemblyInfo.cache
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.genruntimeconfig.cache
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\bin\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.pdb
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.dll
+C:\Users\GD0024\source\repos\FullstackNetCoreAndAngular\FullstackNetCoreAndAngular\obj\Debug\netcoreapp2.2\FullstackNetCoreAndAngular.pdb
